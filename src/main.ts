@@ -1,4 +1,4 @@
-import { advancement, execute, functionCmd, gamerule, kill, MCFunction, MCFunctionInstance, Objective, ObjectiveInstance, say, Score, scoreboard, Selector, SelectorClass, tag, tellraw, _ } from "sandstone";
+import { advancement, execute, functionCmd, gamerule, kill, MCFunction, MCFunctionInstance, Objective, ObjectiveInstance, say, Score, scoreboard, Selector, SelectorClass, tag, TagInstance, tellraw, _ } from "sandstone";
 import { uniform } from './lib/uniform'
 
 
